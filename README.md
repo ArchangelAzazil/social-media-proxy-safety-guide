@@ -21,7 +21,7 @@ Welcome to the repo. If you're here, one of three things happened:
 
 | File | What It Is | Vibe |
 |------|-----------|------|
-| `Comprehensive_Social_Media_Account_Safety_Guide.pdf` | The main event. 31 pages of proxy wisdom. | 🔥 Serious |
+| `Comprehensive_Social_Media_Account_Safety_Guide.pdf` | The main event. 32 pages of proxy wisdom. | 🔥 Serious |
 | `README.md` | You're reading it. Hi. | 😅 Questionable |
 
 ---
@@ -40,13 +40,13 @@ The conversation always goes like this:
 >
 > **Me:** 🤦
 
-So I wrote the guide. **All 31 pages of it.** You're welcome, internet.
+So I wrote the guide. **All 32 pages of it.** You're welcome, internet.
 
 ---
 
 ## 📚 What The Guide Actually Covers
 
-The PDF is a full deep-dive into keeping your social media accounts alive and well while using proxies. Here's the short version (the long version is, again, 31 pages):
+The PDF is a full deep-dive into keeping your social media accounts alive and well while using proxies. Here's the short version (the long version is, again, 32 pages):
 
 - 🌐 **How proxies work with social platforms** — and why platforms are basically paranoid detectives
 - 🆕 **Account creation** — doing it right from day one, before you even type your username
