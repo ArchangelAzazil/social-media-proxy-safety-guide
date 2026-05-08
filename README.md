@@ -129,6 +129,7 @@ If you're a colleague who found a typo — yes, I see it too. No, we don't talk 
 ---
 <div align="center">
 
-[![Flag Counter](https://github-visitor-counter.vercel.app/api?id=ArchangelAzazil&theme=dark)](https://github.com/ArchangelAzazil)
+### 🛡️ Visitor Insights
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ArchangelAzazil-proxy-guide&label=TOTAL%20VISITS&labelColor=%23000000&countColor=%23263238&style=flat)
 
 </div>
