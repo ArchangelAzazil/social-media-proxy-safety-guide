@@ -125,4 +125,10 @@ If you're a colleague who found a typo — yes, I see it too. No, we don't talk 
 *"Stay proxied. Stay safe. Stay unbanned."* 🛡️
 
 </div>
+
+---
+<div align="center">
+
 [![Flag Counter](https://github-visitor-counter.vercel.app/api?id=ArchangelAzazil&theme=dark)](https://github.com/ArchangelAzazil)
+
+</div>
